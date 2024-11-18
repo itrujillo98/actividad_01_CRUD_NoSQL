@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "673ab909b56e0174c30a8c26"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "edad": 25,
+  "posicion": "Alero",
+  "estatura": 1.85,
+  "peso": 80,
+  "nro_camiseta": 7
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c28"
+  },
+  "nombre": "Carlos",
+  "apellido": "Gómez",
+  "edad": 30,
+  "posicion": "Base",
+  "estatura": 1.8,
+  "peso": 75,
+  "nro_camiseta": 4
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c29"
+  },
+  "nombre": "Pedro",
+  "apellido": "López",
+  "edad": 22,
+  "posicion": "Escolta",
+  "estatura": 1.78,
+  "peso": 70,
+  "nro_camiseta": 5
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c2a"
+  },
+  "nombre": "Andrés",
+  "apellido": "Martínez",
+  "edad": 28,
+  "posicion": "Ala-Pívot",
+  "estatura": 1.9,
+  "peso": 85,
+  "nro_camiseta": 10
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c2b"
+  },
+  "nombre": "Luis",
+  "apellido": "Ramírez",
+  "edad": 24,
+  "posicion": "Pívot",
+  "estatura": 2.05,
+  "peso": 95,
+  "nro_camiseta": 12
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c2c"
+  },
+  "nombre": "Fernando",
+  "apellido": "Torres",
+  "edad": 26,
+  "posicion": "Alero",
+  "estatura": 1.88,
+  "peso": 82,
+  "nro_camiseta": 9
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c2d"
+  },
+  "nombre": "Sergio",
+  "apellido": "Hernández",
+  "edad": 29,
+  "posicion": "Base",
+  "estatura": 1.83,
+  "peso": 76,
+  "nro_camiseta": 3
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c2e"
+  },
+  "nombre": "Javier",
+  "apellido": "Cruz",
+  "edad": 21,
+  "posicion": "Escolta",
+  "estatura": 1.79,
+  "peso": 72,
+  "nro_camiseta": 6
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c2f"
+  },
+  "nombre": "Diego",
+  "apellido": "Reyes",
+  "edad": 27,
+  "posicion": "Ala-Pívot",
+  "estatura": 1.92,
+  "peso": 88,
+  "nro_camiseta": 11
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c30"
+  },
+  "nombre": "Gabriel",
+  "apellido": "Vásquez",
+  "edad": 25,
+  "posicion": "Pívot",
+  "estatura": 2,
+  "peso": 90,
+  "nro_camiseta": 13
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c31"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Mendoza",
+  "edad": 23,
+  "posicion": "Alero",
+  "estatura": 1.84,
+  "peso": 78,
+  "nro_camiseta": 2
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c32"
+  },
+  "nombre": "Nicolás",
+  "apellido": "Sánchez",
+  "edad": 26,
+  "posicion": "Base",
+  "estatura": 1.81,
+  "peso": 74,
+  "nro_camiseta": 14
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c33"
+  },
+  "nombre": "Alejandro",
+  "apellido": "Castro",
+  "edad": 20,
+  "posicion": "Escolta",
+  "estatura": 1.75,
+  "peso": 68,
+  "nro_camiseta": 15
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c34"
+  },
+  "nombre": "Hugo",
+  "apellido": "Salazar",
+  "edad": 31,
+  "posicion": "Ala-Pívot",
+  "estatura": 1.89,
+  "peso": 83,
+  "nro_camiseta": 1
+},
+{
+  "_id": {
+    "$oid": "673ab93eb56e0174c30a8c35"
+  },
+  "nombre": "Cristian",
+  "apellido": "Alvarez",
+  "edad": 29,
+  "posicion": "Pívot",
+  "estatura": 2.02,
+  "peso": 92,
+  "nro_camiseta": 8
+}]

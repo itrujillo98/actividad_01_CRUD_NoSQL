@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "673abc5fb56e0174c30a8c79"
+  },
+  "equipo_local": "Equipo A",
+  "equipo_visitante": "Equipo B",
+  "fecha": "2024-12-01T18:00:00Z",
+  "campo": "Estadio Municipal",
+  "arbitros": [
+    "Árbitro 1",
+    "Árbitro 2"
+  ],
+  "cuartos": [
+    {
+      "cuarto": 1,
+      "puntos_local": 20,
+      "puntos_visitante": 15
+    },
+    {
+      "cuarto": 2,
+      "puntos_local": 25,
+      "puntos_visitante": 30
+    },
+    {
+      "cuarto": 3,
+      "puntos_local": 18,
+      "puntos_visitante": 22
+    },
+    {
+      "cuarto": 4,
+      "puntos_local": 30,
+      "puntos_visitante": 28
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673abc5fb56e0174c30a8c7a"
+  },
+  "equipo_local": "Equipo C",
+  "equipo_visitante": "Equipo D",
+  "fecha": "2024-12-02T20:00:00Z",
+  "campo": "Estadio Nacional",
+  "arbitros": [
+    "Árbitro 3",
+    "Árbitro 4"
+  ],
+  "cuartos": [
+    {
+      "cuarto": 1,
+      "puntos_local": 22,
+      "puntos_visitante": 18
+    },
+    {
+      "cuarto": 2,
+      "puntos_local": 30,
+      "puntos_visitante": 25
+    },
+    {
+      "cuarto": 3,
+      "puntos_local": 20,
+      "puntos_visitante": 30
+    },
+    {
+      "cuarto": 4,
+      "puntos_local": 28,
+      "puntos_visitante": 22
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673abc5fb56e0174c30a8c7b"
+  },
+  "equipo_local": "Equipo E",
+  "equipo_visitante": "Equipo F",
+  "fecha": "2024-12-03T19:30:00Z",
+  "campo": "Arena Central",
+  "arbitros": [
+    "Árbitro 5",
+    "Árbitro 6"
+  ],
+  "cuartos": [
+    {
+      "cuarto": 1,
+      "puntos_local": 18,
+      "puntos_visitante": 20
+    },
+    {
+      "cuarto": 2,
+      "puntos_local": 25,
+      "puntos_visitante": 30
+    },
+    {
+      "cuarto": 3,
+      "puntos_local": 15,
+      "puntos_visitante": 28
+    },
+    {
+      "cuarto": 4,
+      "puntos_local": 22,
+      "puntos_visitante": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673abc5fb56e0174c30a8c7c"
+  },
+  "equipo_local": "Equipo G",
+  "equipo_visitante": "Equipo H",
+  "fecha": "2024-12-04T21:00:00Z",
+  "campo": "Estadio Municipal",
+  "arbitros": [
+    "Árbitro 7",
+    "Árbitro 8"
+  ],
+  "cuartos": [
+    {
+      "cuarto": 1,
+      "puntos_local": 22,
+      "puntos_visitante": 24
+    },
+    {
+      "cuarto": 2,
+      "puntos_local": 30,
+      "puntos_visitante": 26
+    },
+    {
+      "cuarto": 3,
+      "puntos_local": 20,
+      "puntos_visitante": 25
+    },
+    {
+      "cuarto": 4,
+      "puntos_local": 25,
+      "puntos_visitante": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673abc5fb56e0174c30a8c7d"
+  },
+  "equipo_local": "Equipo I",
+  "equipo_visitante": "Equipo J",
+  "fecha": "2024-12-05T18:30:00Z",
+  "campo": "Centro Deportivo",
+  "arbitros": [
+    "Árbitro 9",
+    "Árbitro 10"
+  ],
+  "cuartos": [
+    {
+      "cuarto": 1,
+      "puntos_local": 20,
+      "puntos_visitante": 30
+    },
+    {
+      "cuarto": 2,
+      "puntos_local": 15,
+      "puntos_visitante": 25
+    },
+    {
+      "cuarto": 3,
+      "puntos_local": 28,
+      "puntos_visitante": 20
+    },
+    {
+      "cuarto": 4,
+      "puntos_local": 24,
+      "puntos_visitante": 22
+    }
+  ]
+}]

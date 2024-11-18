@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "673abd73b56e0174c30a8c83"
+  },
+  "puntos_local": 95,
+  "puntos_visitante": 88,
+  "puntos_anotados": {
+    "local": {
+      "jugador": "Juan Pérez",
+      "puntos": 28
+    },
+    "visitante": {
+      "jugador": "Carlos Gómez",
+      "puntos": 30
+    }
+  },
+  "faltas_acumuladas": {
+    "local": [
+      "Luis Ramírez",
+      "Andrés Martínez"
+    ],
+    "visitante": [
+      "Pedro López"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "673abd73b56e0174c30a8c84"
+  },
+  "puntos_local": 85,
+  "puntos_visitante": 98,
+  "puntos_anotados": {
+    "local": {
+      "jugador": "Sergio Hernández",
+      "puntos": 22
+    },
+    "visitante": {
+      "jugador": "Fernando Torres",
+      "puntos": 32
+    }
+  },
+  "faltas_acumuladas": {
+    "local": [
+      "Javier Cruz"
+    ],
+    "visitante": [
+      "Diego Reyes",
+      "Natalia Salazar"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "673abd73b56e0174c30a8c85"
+  },
+  "puntos_local": 90,
+  "puntos_visitante": 92,
+  "puntos_anotados": {
+    "local": {
+      "jugador": "Gabriel Vásquez",
+      "puntos": 27
+    },
+    "visitante": {
+      "jugador": "Ricardo Mendoza",
+      "puntos": 24
+    }
+  },
+  "faltas_acumuladas": {
+    "local": [
+      "Samuel García"
+    ],
+    "visitante": []
+  }
+},
+{
+  "_id": {
+    "$oid": "673abd73b56e0174c30a8c86"
+  },
+  "puntos_local": 75,
+  "puntos_visitante": 82,
+  "puntos_anotados": {
+    "local": {
+      "jugador": "Patricia Hernández",
+      "puntos": 15
+    },
+    "visitante": {
+      "jugador": "Alejandro Sánchez",
+      "puntos": 27
+    }
+  },
+  "faltas_acumuladas": {
+    "local": [
+      "Cristina Alvarez"
+    ],
+    "visitante": [
+      "Esteban Rojas"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "673abd73b56e0174c30a8c87"
+  },
+  "puntos_local": 100,
+  "puntos_visitante": 95,
+  "puntos_anotados": {
+    "local": {
+      "jugador": "Diego Reyes",
+      "puntos": 35
+    },
+    "visitante": {
+      "jugador": "Nicolás Sánchez",
+      "puntos": 30
+    }
+  },
+  "faltas_acumuladas": {
+    "local": [
+      "Javier Cruz"
+    ],
+    "visitante": []
+  }
+},
+{
+  "_id": {
+    "$oid": "673abd73b56e0174c30a8c88"
+  },
+  "puntos_local": 78,
+  "puntos_visitante": 85,
+  "puntos_anotados": {
+    "local": {
+      "jugador": "Fernando Torres",
+      "puntos": 20
+    },
+    "visitante": {
+      "jugador": "Carlos Gómez",
+      "puntos": 28
+    }
+  },
+  "faltas_acumuladas": {
+    "local": [],
+    "visitante": [
+      "Sergio Hernández"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "673abd73b56e0174c30a8c89"
+  },
+  "puntos_local": 88,
+  "puntos_visitante": 90,
+  "puntos_anotados": {
+    "local": {
+      "jugador": "Juan Pérez",
+      "puntos": 29
+    },
+    "visitante": {
+      "jugador": "Andrés Martínez",
+      "puntos": 32
+    }
+  },
+  "faltas_acumuladas": {
+    "local": [
+      "Luis Ramírez"
+    ],
+    "visitante": []
+  }
+}]

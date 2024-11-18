@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c39"
+  },
+  "nombre": "Carlos",
+  "apellido": "Gómez",
+  "experiencia": 10
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c3a"
+  },
+  "nombre": "Laura",
+  "apellido": "Martínez",
+  "experiencia": 8
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c3b"
+  },
+  "nombre": "Andrés",
+  "apellido": "López",
+  "experiencia": 12
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c3c"
+  },
+  "nombre": "Fernando",
+  "apellido": "Torres",
+  "experiencia": 6
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c3d"
+  },
+  "nombre": "Patricia",
+  "apellido": "Hernández",
+  "experiencia": 15
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c3e"
+  },
+  "nombre": "Javier",
+  "apellido": "Cruz",
+  "experiencia": 9
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c3f"
+  },
+  "nombre": "Diego",
+  "apellido": "Reyes",
+  "experiencia": 11
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c40"
+  },
+  "nombre": "Santiago",
+  "apellido": "Romero",
+  "experiencia": 7
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c41"
+  },
+  "nombre": "Alejandro",
+  "apellido": "Sánchez",
+  "experiencia": 5
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c42"
+  },
+  "nombre": "Miguel",
+  "apellido": "Vásquez",
+  "experiencia": 13
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c43"
+  },
+  "nombre": "Natalia",
+  "apellido": "Salazar",
+  "experiencia": 3
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c44"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Pérez",
+  "experiencia": 10
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c45"
+  },
+  "nombre": "Cristina",
+  "apellido": "Alvarez",
+  "experiencia": 8
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c46"
+  },
+  "nombre": "Samuel",
+  "apellido": "García",
+  "experiencia": 4
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c47"
+  },
+  "nombre": "Victoria",
+  "apellido": "Mendoza",
+  "experiencia": 9
+},
+{
+  "_id": {
+    "$oid": "673aba03b56e0174c30a8c48"
+  },
+  "nombre": "Esteban",
+  "apellido": "Rojas",
+  "experiencia": 14
+}]

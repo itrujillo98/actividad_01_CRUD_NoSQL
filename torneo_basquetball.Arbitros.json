@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c66"
+  },
+  "nombre": "Carlos",
+  "apellido": "Gómez",
+  "experiencia": 10,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c67"
+  },
+  "nombre": "Laura",
+  "apellido": "Martínez",
+  "experiencia": 5,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c68"
+  },
+  "nombre": "Andrés",
+  "apellido": "López",
+  "experiencia": 12,
+  "certificacion": "Internacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c69"
+  },
+  "nombre": "Fernando",
+  "apellido": "Torres",
+  "experiencia": 6,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c6a"
+  },
+  "nombre": "Patricia",
+  "apellido": "Hernández",
+  "experiencia": 15,
+  "certificacion": "Internacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c6b"
+  },
+  "nombre": "Javier",
+  "apellido": "Cruz",
+  "experiencia": 9,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c6c"
+  },
+  "nombre": "Diego",
+  "apellido": "Reyes",
+  "experiencia": 11,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c6d"
+  },
+  "nombre": "Santiago",
+  "apellido": "Romero",
+  "experiencia": 7,
+  "certificacion": "Internacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c6e"
+  },
+  "nombre": "Alejandro",
+  "apellido": "Sánchez",
+  "experiencia": 5,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c6f"
+  },
+  "nombre": "Miguel",
+  "apellido": "Vásquez",
+  "experiencia": 13,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c70"
+  },
+  "nombre": "Natalia",
+  "apellido": "Salazar",
+  "experiencia": 3,
+  "certificacion": "Internacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c71"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Pérez",
+  "experiencia": 10,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c72"
+  },
+  "nombre": "Cristina",
+  "apellido": "Alvarez",
+  "experiencia": 8,
+  "certificacion": "Internacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c73"
+  },
+  "nombre": "Samuel",
+  "apellido": "García",
+  "experiencia": 4,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c74"
+  },
+  "nombre": "Victoria",
+  "apellido": "Mendoza",
+  "experiencia": 9,
+  "certificacion": "Nacional"
+},
+{
+  "_id": {
+    "$oid": "673abbc3b56e0174c30a8c75"
+  },
+  "nombre": "Esteban",
+  "apellido": "Rojas",
+  "experiencia": 14,
+  "certificacion": "Internacional"
+}]
